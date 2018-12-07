@@ -1,0 +1,152 @@
+
+.container{
+  margin-left: 0px;
+  height: 50px!important;
+}
+
+.navbar-default{
+  background-color: gray;
+  border-top:solid black 2px;
+  border-bottom:solid black 2px;
+  border-color: black;
+}
+.navbar-default .navbar-toggle{
+  border:solid black 2px;
+  background-color: gray;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: black;
+}
+.navbar-brand {
+top: 50%;
+
+margin:1% 1% 0px 0px;
+}
+
+.navbar-collapse{
+  border-top-color:solid black 2px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.nav{
+  background-color: white;
+  text-align: center;
+}
+
+hr{
+  border-top:solid black 2px;
+}
+
+
+
+
+/*****************************************prev ass ********************************/
+/********** Base styles **********/
+* {
+ box-sizing: border-box;
+}
+
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+/*
+.parentdiv1{
+  position: relative; 
+  font-family: Helvetica;
+  color: black;
+  padding:30px;
+
+}
+
+.div1{
+  position: absolute; 
+  right: 0px; 
+  top: 0px; 
+  width: 200px; 
+  height: 30px;  
+  border: 3px solid black;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  font-size: 24px; 
+  text-align: center; 
+}
+
+#d1{
+  background-color: pink;
+}
+
+#d2{
+   background-color: orange; 
+}
+
+#d3{
+   background-color: yellow; 
+}
+
+section{
+    position: relative;
+    padding: 20px;
+    background-color: gray;  
+    border: 3px solid black;
+    height:50%;
+    overflow:auto;
+}
+*/
+/********** Desktop only **********/
+/*
+@media (min-width: 992px) {
+  .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+
+   float:left;
+   
+  }
+  
+  .col-lg-4 {
+    width: 33.33%;
+  }
+  
+}
+
+/********** Tablet only **********/
+/*
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+  
+   float:left;
+  }
+  
+  .col-md-6 {
+    width: 50%;
+  }
+  .col-md-12 {
+    width: 100%;
+  }
+  
+}
+
+
+/********** Mobile only **********/
+/*
+@media (max-width: 767px) {
+  .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+   
+     float:left;
+  }
+  
+  .col-xs-12 {
+    width: 100%;
+
+  }
+}*/
